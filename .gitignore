@@ -1,0 +1,35 @@
+# --- C++ Compiled Objects ---
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# --- Build Folders ---
+build/
+bin/
+dist/
+Debug/
+Release/
+x64/
+x86/
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+*.swp
+*.user
+.vs/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & Test Results ---
+*.log
+*.gcov
+*.gcda
+*.gcno
